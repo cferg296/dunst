@@ -1,0 +1,8 @@
+[global]
+frame_color = "#E0E0E0"
+separator_color = frame
+frame_width = 2
+corner_radius = 10
+background = "#151515"
+foreground = "#E0E0E0"
+font = JetBrainsMono Nerd Font Mono Regular 11
